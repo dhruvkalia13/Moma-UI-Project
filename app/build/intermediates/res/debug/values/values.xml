@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/jeroen/Dropbox/Sien%20&%20Jeroen/Android/Coursera/Moderen%20Art%20UI%20(Final%20Assignment)/Project%20(Solved)/ModernArtUI/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="indigo">#FF3F51B5</color>
+    <color name="pink">#FFFF4081</color>
+    <color name="semi_transparent_indigo">#FE3F51B5</color>
+    <!-- From: file:/home/jeroen/Dropbox/Sien%20&%20Jeroen/Android/Coursera/Moderen%20Art%20UI%20(Final%20Assignment)/Project%20(Solved)/ModernArtUI/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">0dp</dimen>
+    <dimen name="activity_vertical_margin">0dp</dimen>
+    <dimen name="popup_height">200dp</dimen>
+    <dimen name="popup_width">300dp</dimen>
+    <dimen name="view_thick_horizontal_padding">6dp</dimen>
+    <dimen name="view_thin_horizontal_padding">5dp</dimen>
+    <dimen name="view_vertical_padding">4dp</dimen>
+    <!-- From: file:/home/jeroen/Dropbox/Sien%20&%20Jeroen/Android/Coursera/Moderen%20Art%20UI%20(Final%20Assignment)/Project%20(Solved)/ModernArtUI/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Modern Art UI</string>
+    <string name="indigo_rectangle">indigo rectangle</string>
+    <string name="mondrian_more_info">Inspired by the works of artists such as\n
+        Piet Mondrian and Ben Nicholson.\n\n Click below to learn more!</string>
+    <string name="more_information_string">More Information</string>
+    <string name="not_now_string">Not Now</string>
+    <string name="pink_rectangle">pink rectangle</string>
+    <string name="visit_moma_string">Visit MOMA</string>
+    <string name="white_rectangle">white rectangle</string>
+    <!-- From: file:/home/jeroen/Dropbox/Sien%20&%20Jeroen/Android/Coursera/Moderen%20Art%20UI%20(Final%20Assignment)/Project%20(Solved)/ModernArtUI/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Material">
+
+        <!-- Customize your theme here -->
+        <item name="android:colorPrimary">@color/indigo</item>
+        <item name="android:colorAccent">@color/pink</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+</resources>
